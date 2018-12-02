@@ -38,6 +38,18 @@ return으로 value를 만들어 낼 수도 있고 없을수도 있다.
 
 반대는 불가능 ...
 
-#### Functions as values
+#### Optional argument
+
+JS에선 function argument를 임의로 추가 할 수도 있다.
+
+단점은 실수로 argument의 수를 잘 못 입력하면 알 수가 없지만
+
+장점은 입력되어지는 argument의 수에 따라 function을 제어 할 수 있다.
+
+그리고 함수선언시 argument뒤에 ' = 값' 으로 입력되지 않았을 때 기본 값을 미리 지정 해둘 수 있다.
+
+#### Closure
+
+클로저는 
 
 
